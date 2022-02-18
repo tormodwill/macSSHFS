@@ -10,7 +10,8 @@ https://github.com/osxfuse/sshfs
 The osxfuse/sshfs has not been updated since 2014, hence this separate version.
 
 As of february 2022, this page will distribute an install package of
-SSHFS version 2.10.0
+SSHFS version 2.10.0.
+
 The SSHFS version 2.10.0 is a performance update of version 2.5.0
 The performance improvements are significant.
 
