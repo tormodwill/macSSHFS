@@ -44,8 +44,11 @@ https://opensource.ncsa.illinois.edu/confluence/display/DESDM/Installing+pkg-con
 ### Start the install / process
 
 To get this working, you need glib.
+
 in order to get glib working,
+
 you need meson and ninja.
+
 In order to start the process, you can have a look here:
 
 https://mesonbuild.com/SimpleStart.html
