@@ -20,7 +20,7 @@ This version is based on version 2.10.0 for linux
 
 The reason for offering this as a separate install package : It is not for the average mac user to compile the sshfs linux version.
 
-The goal this macSSHFS repository will be to include support libfuse 3.
+The goal this macSSHFS repository will be to include support for libfuse 3.
 If this can be achived, than it will be possible to compile the newest linux versions of sshfs to macOS.
 
 The owner of this repository, Tormod Willassen, is totally dependent of contributors in order to be able to supply updates, new versions
