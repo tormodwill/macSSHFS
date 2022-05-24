@@ -64,9 +64,11 @@ _**Install Command Line Tools for Xcode**_
 _**Install Python 3**_
 https://www.python.org/downloads/mac-osx/
 
+
 _**Install meson and ninja.**_
 
 pip3 install --user meson ninja
+
 
 Your  .bash_profile should have a PATH for meson and ninja :
 Edit your .bash_profile using your favorite editor. 
