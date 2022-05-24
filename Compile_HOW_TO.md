@@ -60,15 +60,16 @@ _**Install Python 3**_
 https://www.python.org/downloads/mac-osx/
 
 _**Install meson and ninja.**_
-
 pip3 install --user meson ninja
 
 Your  .bash_profile should have a PATH for meson and ninja :
 Edit your .bash_profile using your favorite editor. 
 ( I use vim )
+
 $ vim .bash_profile
 
 #Setting PATH for meson an ninja
+
 export PATH=$PATH:/Users/**_YOUR_USERNAME_HERE_**/Library/Python/3.9/bin
 #Setting PATH for Python 3.9
 PATH="/Library/Frameworks/Python.framework/Versions/3.9/bin:${PATH}"
