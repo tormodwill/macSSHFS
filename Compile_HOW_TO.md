@@ -10,7 +10,6 @@ Command_Line_Tools_for_Xcode_11.3.1 - For Mojave 10.14.6
 
 If you run a newer version of macOS, you will find the correct version of Xcode here :
 https://xcodereleases.com/
-The macOS terminal / shell environment is becoming more and more restricted as MacOS disallows even root from controlling things in the newer versions of macOS.  The older versions of macOS is better in this regard.
 
 macFUSE - use latest release. Download from here :
 https://github.com/osxfuse/osxfuse/releases
@@ -23,6 +22,7 @@ https://ftp.acc.umu.se/pub/GNOME/sources/glib/2.66/
 SSHFS version 2.10.0
 Download SSHFS from here :
 https://github.com/libfuse/sshfs/releases/tag/sshfs-2.10
+
 As of june 2021 this is the latest version that will run on mac.
 The latest version on the https://github.com/libfuse/sshfs will not work for mac.
 The latest version of libfuse shipping with macFUSE is 2.9.9. This means you are limited to SSHFS 2.x.
@@ -84,8 +84,8 @@ Here is the instructions for installing glib :
 [ Become root if necessary ]
 % ninja -C _build install                 # install GLib
 
-**_Install sshfs_** 
 
+**_Install sshfs_** 
 
 ( Compiling sshfs )
 To build and install, use Meson (version 0.38 or newer) and Ninja. After extracting the sshfs tarball, create a (temporary) build directory and run Meson:
