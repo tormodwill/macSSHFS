@@ -72,6 +72,7 @@ $ vim .bash_profile
 #Setting PATH for meson an ninja
 
 export PATH=$PATH:/Users/**_YOUR_USERNAME_HERE_**/Library/Python/3.9/bin
+
 #Setting PATH for Python 3.9
 PATH="/Library/Frameworks/Python.framework/Versions/3.9/bin:${PATH}"
 export PATH
