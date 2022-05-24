@@ -3,9 +3,11 @@
 
 For this tutorial I use the following versions of software:
 Xcode_10.1  - for High Sierra  10.13.6
+
 Command_Line_Tools_for_Xcode_10.1  - for High Sierra 10.13.6
 
 Xcode_11.3.1 - for Mojave 10.14.6
+
 Command_Line_Tools_for_Xcode_11.3.1 - For Mojave 10.14.6
 
 If you run a newer version of macOS, you will find the correct version of Xcode here :
@@ -96,8 +98,13 @@ Here is the instructions for installing glib :
 To build and install, use Meson (version 0.38 or newer) and Ninja. After extracting the sshfs tarball, create a (temporary) build directory and run Meson:
 
 $ mkdir build; cd build
+
 $ meson ..
+
 To build, test and install SSHFS, you then use Ninja (running the tests requires the py.test Python module):
+
 $ ninja
+
 $ python3 -m pytest test/    # optional, but recommended
+
 $ sudo ninja install
