@@ -23,6 +23,7 @@ https://ftp.acc.umu.se/pub/GNOME/sources/glib/2.66/
 
 SSHFS version 2.10.0
 Download SSHFS from here :
+
 https://github.com/tormodwill/macSSHFS/releases/download/macSSHFS/macSSHFS-2.10.zip
 
 As of june 2021 this is the latest version that will run on mac.
