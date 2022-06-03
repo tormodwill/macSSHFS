@@ -8,6 +8,7 @@ This version is based on version 2.10.0 for linux
 
 In coexistence with macSSHFS, we also have 
 https://github.com/osxfuse/sshfs
+
 The osxfuse/sshfs has not been updated since 2014, hence this separate version.
 
 As of may 2022, this page will distribute an install package of
