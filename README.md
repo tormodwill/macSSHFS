@@ -1,7 +1,6 @@
 # macSSHFS
-mac version of sshfs.
 
-This is a mac version of 
+This is a mac version of sshfs
 https://github.com/libfuse/sshfs
 
 This version is based on version 2.10.0 for linux
