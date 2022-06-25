@@ -9,6 +9,7 @@ https://github.com/libfuse/sshfs/releases/tag/sshfs-2.10
 The following changes has been done to the linux code : 
 
 
+
 *Line 1724 in sshfs.c ( SSHFS version 2.10 )
 
 change to sshfs.sync_read = 0
