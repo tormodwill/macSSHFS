@@ -35,6 +35,7 @@ The following changes has been done to the linux code :
 
 
 *	Edit sshfs.c
+
 	changed # include <fuse_darwin.h> to #include <fuse.h>
 
 
