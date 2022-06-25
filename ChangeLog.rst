@@ -40,6 +40,8 @@ The following changes has been done to the linux code :
 
 
 *	Edit test/meson.build
+
 	change the line beginning with command: to read: 
+	
 	command: ['cp', '-fp', '@INPUT@', meson.current_build_dir() ])
 
