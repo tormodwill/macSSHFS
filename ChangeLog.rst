@@ -6,12 +6,12 @@
 Release 2.10 (2022-05-24)
 --------------------------
 
-* 	Initial release 
+Initial release 
 
-	This is a mac version of the 
-	https://github.com/libfuse/sshfs/releases/tag/sshfs-2.10
+This is a mac version of the 
+https://github.com/libfuse/sshfs/releases/tag/sshfs-2.10
 
-	The following changes has been done to the linux code : 
+The following changes has been done to the linux code : 
 
 
 
