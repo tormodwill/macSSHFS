@@ -17,11 +17,11 @@ This will force sync read.
 
 #if FUSE_VERSION >= 26
 
-	/* Readahead should be done by kernel or sshfs but not both */
+/* Readahead should be done by kernel or sshfs but not both */
 	
-	if (conn->async_read)
+if (conn->async_read)
 	
-		sshfs.sync_read = 0;
+sshfs.sync_read = 0;
 		
 #endif
 
