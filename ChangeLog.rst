@@ -1,5 +1,11 @@
+Release 2.10.1 (2022-07-15)
+--------------------------
 
+The following changes has been done to the linux code : 
 
+https://github.com/libfuse/sshfs/commit/667cf34622e2e873db776791df275c7a582d6295
+
+https://github.com/libfuse/sshfs/issues/11#issuecomment-339407557
 
 
 
