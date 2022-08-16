@@ -5,7 +5,7 @@ macSSHFS allows you to mount a remote filesystem using SFTP.
 Most SSH servers support and enable this SFTP access by default.
 SSHFS is shipped by all major Linux distributions and has been in production use across a wide range of systems for many years.
 
-This is a macOS version of the linux version 2.10.0 found here :
+This is a macOS version of the Linux version 2.10.0 found here :
 https://github.com/libfuse/sshfs
 
 In coexistence with macSSHFS, we also have 
@@ -19,12 +19,12 @@ macSSHFS version 2.10.0.
 The macSSHFS version 2.10.0 is a performance update of version 2.5.0
 The performance improvements are significant.
 
-The reason for offering this as a separate install package : It is not for the average macOS user to compile the sshfs linux version.
+The reason for offering this as a separate install package : It is not for the average macOS user to compile the sshfs Linux version.
 
 
 The goal of this macSSHFS repository will be :
 
-* To include support for libfuse 3. If this can be achived, than it will be possible to compile the newest linux versions of sshfs to macOS. (need contributor for this)
+* To include support for libfuse 3. If this can be achived, than it will be possible to compile the newest sshfs Linux versions to macOS. Need contributor to include support for libfuse 3.
 
 * Make an option in the install package menu to run macSSHFS and mount at startup of macOS.  
 I have the scripts needed to mount at startup, but need contibutor to incorporate this in the install package.
