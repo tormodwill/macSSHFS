@@ -24,7 +24,7 @@ The reason for offering this as a separate install package : It is not for the a
 
 To do list of this macSSHFS repository  :
 
-* Include support for libfuse 3. If this can be achived, than it will be possible to compile the newest sshfs Linux versions to macOS. Need contributor to include support for libfuse 3.
+* Include support for libfuse 3. When this is achieved, it will be possible to compile the newest sshfs Linux versions to macOS. Need contributor to include support for libfuse 3.
 
 * Make an option in the install package menu to run macSSHFS and mount at startup of macOS.  
 I have the scripts needed to mount at startup, but need contibutor to incorporate this in the install package.
