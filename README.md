@@ -22,7 +22,7 @@ The performance improvements are significant.
 The reason for offering this as a separate install package : It is not for the average macOS user to compile the sshfs Linux version.
 
 
-The goal of this macSSHFS repository will be :
+To do list of this macSSHFS repository  :
 
 * To include support for libfuse 3. If this can be achived, than it will be possible to compile the newest sshfs Linux versions to macOS. Need contributor to include support for libfuse 3.
 
