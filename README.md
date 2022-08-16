@@ -3,7 +3,7 @@
 macSSHFS allows you to mount a remote filesystem using SFTP. 
 
 Most SSH servers support and enable this SFTP access by default.
-SSHFS is shipped by all major Linux distributions and has been in production use across a wide range of systems for many years.
+SSHFS is shipped by major operating systems and has been in production use across a wide range of systems for many years.
 
 This is a macOS version of the Linux version 2.10.0 found here :
 https://github.com/libfuse/sshfs
