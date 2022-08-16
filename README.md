@@ -21,8 +21,13 @@ The performance improvements are significant.
 
 The reason for offering this as a separate install package : It is not for the average macOS user to compile the sshfs linux version.
 
-The goal of this macSSHFS repository will be to include support for libfuse 3.
-If this can be achived, than it will be possible to compile the newest linux versions of sshfs to macOS.
+
+The goal of this macSSHFS repository will be :
+
+* To include support for libfuse 3. If this can be achived, than it will be possible to compile the newest linux versions of sshfs to macOS. (need contributor for this)
+
+* Make an option in the install package menu to run macSSHFS and mount at startup of macOS.  
+I have the scripts needed to mount at startup, but need contibutor to incorporate this in the install package.
 
 Tormod Willassen facilitates this repository as a service for people who would like a newer version of SSHFS for macOS.
 
