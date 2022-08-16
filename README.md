@@ -30,7 +30,6 @@ The goal of this macSSHFS repository will be :
 I have the scripts needed to mount at startup, but need contibutor to incorporate this in the install package.
 
 Tormod Willassen facilitates this repository as a service for people who would like a newer version of SSHFS for macOS.
-
 The owner of this repository is totally dependent of contributors in order to be able to supply updates, new versions
 and bugfixes. 
 
