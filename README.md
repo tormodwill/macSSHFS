@@ -22,6 +22,20 @@ The performance improvements are significant.
 The reason for offering this as a separate install package : It is not for the average macOS user to compile the sshfs Linux version.
 
 
+
+
+To install macSSHFS :
+
+First install macFUSE via PKG installer  https://github.com/osxfuse/osxfuse
+
+, then install macSSHFS via PKG installer https://github.com/tormodwill/macSSHFS
+
+DO NOT USE BREW TO INSTALL macFUSE OR sshfs.
+This WILL fail :
+https://github.com/libfuse/sshfs/issues/255
+
+
+
 To do list of this macSSHFS repository  :
 
 * Include support for libfuse 3. When this is achieved, it will be possible to compile the newest sshfs Linux versions to macOS. Need contributor to include support for libfuse 3.
